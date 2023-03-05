@@ -2,6 +2,8 @@
 
 # TermDrop For BSPWM
 A "light as feather" script to use your favourite apps as dropdowns in BSPWM.  
+This script will hide/unhide the program on running it multiple times.   
+If the window doesn't exist, it will create it.  
 
 <img src="https://github.com/prayag2/termdrop/blob/main/ss.png" style="width: 100%;">
 </center>
